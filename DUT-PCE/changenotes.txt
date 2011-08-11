@@ -1,0 +1,3 @@
+1. Add maxcnt in wfa_tg.h for profile
+2. add line to set maxcnt limit for sending/dt4 (transaction).
+
